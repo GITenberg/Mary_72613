@@ -1,0 +1,30 @@
+_repo: Mary_72613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferenczi, Sári
+    alias: Ferenczi, Sari
+    birthdate: 1887
+    deathdate: 1952
+    gutenberg_agent_id: '56735'
+    url: http://www.gutenberg.org/2009/agents/56735
+    wikipedia: https://hu.wikipedia.org/wiki/Ferenczi_S%C3%A1ri
+description: ''
+gutenberg_issued: '2024-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72613'
+language: hu
+pgterms:marc905: 20231231044414ferenczi
+pgterms:marc906: '1913'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mary
+url: http://www.gutenberg.org/ebooks/72613
