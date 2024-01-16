@@ -1,5 +1,8 @@
 _repo: Mary_72613
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferenczi, Sári
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56735
     wikipedia: https://hu.wikipedia.org/wiki/Ferenczi_S%C3%A1ri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72613#Mary
 gutenberg_issued: '2024-01-04'
 gutenberg_type: Text
 identifiers:
